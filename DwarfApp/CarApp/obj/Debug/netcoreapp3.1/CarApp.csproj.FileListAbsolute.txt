@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\DwarfApp\CarApp\bin\Debug\netcoreapp3.1\CarApp.exe
+C:\Users\Student\source\repos\DwarfApp\CarApp\bin\Debug\netcoreapp3.1\CarApp.deps.json
+C:\Users\Student\source\repos\DwarfApp\CarApp\bin\Debug\netcoreapp3.1\CarApp.runtimeconfig.json
+C:\Users\Student\source\repos\DwarfApp\CarApp\bin\Debug\netcoreapp3.1\CarApp.runtimeconfig.dev.json
+C:\Users\Student\source\repos\DwarfApp\CarApp\bin\Debug\netcoreapp3.1\CarApp.dll
+C:\Users\Student\source\repos\DwarfApp\CarApp\bin\Debug\netcoreapp3.1\CarApp.pdb
+C:\Users\Student\source\repos\DwarfApp\CarApp\obj\Debug\netcoreapp3.1\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\DwarfApp\CarApp\obj\Debug\netcoreapp3.1\CarApp.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\DwarfApp\CarApp\obj\Debug\netcoreapp3.1\CarApp.AssemblyInfo.cs
+C:\Users\Student\source\repos\DwarfApp\CarApp\obj\Debug\netcoreapp3.1\CarApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\DwarfApp\CarApp\obj\Debug\netcoreapp3.1\CarApp.dll
+C:\Users\Student\source\repos\DwarfApp\CarApp\obj\Debug\netcoreapp3.1\CarApp.pdb
+C:\Users\Student\source\repos\DwarfApp\CarApp\obj\Debug\netcoreapp3.1\CarApp.genruntimeconfig.cache
+C:\Users\Student\source\repos\DwarfApp\CarApp\obj\Debug\netcoreapp3.1\CarApp.csproj.AssemblyReference.cache
