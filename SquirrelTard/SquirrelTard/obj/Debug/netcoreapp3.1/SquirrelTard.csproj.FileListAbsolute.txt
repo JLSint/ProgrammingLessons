@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\bin\Debug\netcoreapp3.1\SquirrelTard.exe
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\bin\Debug\netcoreapp3.1\SquirrelTard.deps.json
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\bin\Debug\netcoreapp3.1\SquirrelTard.runtimeconfig.json
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\bin\Debug\netcoreapp3.1\SquirrelTard.runtimeconfig.dev.json
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\bin\Debug\netcoreapp3.1\SquirrelTard.dll
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\bin\Debug\netcoreapp3.1\SquirrelTard.pdb
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\obj\Debug\netcoreapp3.1\SquirrelTard.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\obj\Debug\netcoreapp3.1\SquirrelTard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\obj\Debug\netcoreapp3.1\SquirrelTard.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\obj\Debug\netcoreapp3.1\SquirrelTard.AssemblyInfo.cs
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\obj\Debug\netcoreapp3.1\SquirrelTard.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\obj\Debug\netcoreapp3.1\SquirrelTard.dll
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\obj\Debug\netcoreapp3.1\SquirrelTard.pdb
+C:\Users\Student\source\repos\SquirrelTard\SquirrelTard\obj\Debug\netcoreapp3.1\SquirrelTard.genruntimeconfig.cache

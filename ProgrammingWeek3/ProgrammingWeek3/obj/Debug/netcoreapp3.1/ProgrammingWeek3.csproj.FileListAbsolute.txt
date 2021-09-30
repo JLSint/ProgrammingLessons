@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\bin\Debug\netcoreapp3.1\ProgrammingWeek3.exe
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\bin\Debug\netcoreapp3.1\ProgrammingWeek3.deps.json
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\bin\Debug\netcoreapp3.1\ProgrammingWeek3.runtimeconfig.json
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\bin\Debug\netcoreapp3.1\ProgrammingWeek3.runtimeconfig.dev.json
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\bin\Debug\netcoreapp3.1\ProgrammingWeek3.dll
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\bin\Debug\netcoreapp3.1\ProgrammingWeek3.pdb
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\obj\Debug\netcoreapp3.1\ProgrammingWeek3.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\obj\Debug\netcoreapp3.1\ProgrammingWeek3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\obj\Debug\netcoreapp3.1\ProgrammingWeek3.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\obj\Debug\netcoreapp3.1\ProgrammingWeek3.AssemblyInfo.cs
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\obj\Debug\netcoreapp3.1\ProgrammingWeek3.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\obj\Debug\netcoreapp3.1\ProgrammingWeek3.dll
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\obj\Debug\netcoreapp3.1\ProgrammingWeek3.pdb
+C:\Users\Student\source\repos\ProgrammingWeek3\ProgrammingWeek3\obj\Debug\netcoreapp3.1\ProgrammingWeek3.genruntimeconfig.cache
